@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Política de Privacidade - Economiza Ai</title>
+</head>
+<body>
+<h1>Política de Privacidade - Economiza Ai</h1>
+<p>Última atualização: 19 de setembro de 2026</p>
+
+<h2>Sobre o aplicativo</h2>
+<p>O "Economiza Ai" é um aplicativo de uso pessoal que publica automaticamente, em contas próprias (WhatsApp, Instagram, TikTok e Pinterest), links de produtos em promoção com afiliação (Shopee, Mercado Livre, Amazon), junto com imagens e descrições geradas a partir das próprias páginas públicas desses produtos.</p>
+
+<h2>Quais dados são usados</h2>
+<p>O aplicativo não coleta, armazena ou compartilha dados pessoais de terceiros. Ele utiliza apenas:</p>
+<ul>
+<li>Informações públicas de produtos (título, imagem, preço) obtidas diretamente das páginas dos lojistas parceiros, para montar as publicações.</li>
+<li>Tokens de acesso das próprias contas de redes sociais do desenvolvedor, usados exclusivamente para publicar conteúdo em nome dele mesmo.</li>
+</ul>
+<p>O aplicativo não coleta dados de visitantes, seguidores ou de qualquer outro usuário. Nenhuma informação é vendida, alugada ou compartilhada com terceiros.</p>
+
+<h2>Uso da API do Pinterest</h2>
+<p>O aplicativo utiliza a API do Pinterest exclusivamente para publicar pins (imagem, título, descrição e link) nas próprias contas do desenvolvedor, com uma frequência limitada de publicações por dia. Nenhum dado de outros usuários do Pinterest é acessado, coletado ou processado.</p>
+
+<h2>Armazenamento e segurança</h2>
+<p>Nenhum dado pessoal sensível é armazenado. As credenciais de acesso às APIs (tokens) são mantidas em arquivos locais de configuração, protegidos e não compartilhados publicamente.</p>
+
+<h2>Contato</h2>
+<p>Em caso de dúvidas sobre esta política, entre em contato pelo e-mail: anaanocca@gmail.com</p>
+</body>
+</html>
