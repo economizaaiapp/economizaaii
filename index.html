@@ -108,6 +108,47 @@
   }
   .lojas span { border: 1px solid var(--line); border-radius: 2px; padding: 5px 9px; }
 
+  /* ---------- CTA da hero + aviso de vagas ---------- */
+  .hero-cta { margin-top: 24px; }
+  .alerta-vagas {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    margin-top: 12px;
+    background: var(--tag);
+    color: #15181D;
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: .01em;
+    padding: 7px 12px;
+    border-radius: 3px;
+  }
+  .alerta-vagas.pequeno {
+    margin-top: 8px;
+    font-size: 11px;
+    padding: 5px 9px;
+    background: transparent;
+    color: var(--ink-soft);
+    font-weight: 500;
+  }
+
+  /* ---------- benefícios ---------- */
+  .beneficios {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+  }
+  .beneficio {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 14px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .beneficio span { display: block; font-size: 22px; margin-bottom: 4px; }
+
   /* ---------- exemplo de post ---------- */
   .amostra { margin-top: 32px; }
   .amostra-rotulo {
@@ -277,7 +318,15 @@
       <span>Mercado Livre</span>
       <span>Shopee</span>
     </div>
+    <a class="btn hero-cta" href="https://chat.whatsapp.com/Jw603nchXcC9Ztson7cyvf?mode=gi_t">Entrar no grupo agora</a>
+    <div class="alerta-vagas">🔥 Grupo enchendo rápido — vagas limitadas pelo próprio WhatsApp</div>
   </header>
+
+  <section class="beneficios">
+    <div class="beneficio"><span>💸</span>Economia de verdade, sem preço inflado pra parecer promoção</div>
+    <div class="beneficio"><span>✅</span>Cada link é conferido antes de ir pro grupo</div>
+    <div class="beneficio"><span>📩</span>Direto no seu WhatsApp, sem precisar ficar caçando</div>
+  </section>
 
   <section class="como">
     <h3>Como funciona</h3>
@@ -314,6 +363,7 @@
 <div class="barra">
   <div class="barra-in">
     <a class="btn" id="cta" href="https://chat.whatsapp.com/Jw603nchXcC9Ztson7cyvf?mode=gi_t">Entrar no grupo</a>
+    <div class="alerta-vagas pequeno">🔥 Vagas limitadas — o grupo está enchendo</div>
   </div>
 </div>
 
